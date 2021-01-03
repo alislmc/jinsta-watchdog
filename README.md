@@ -1,7 +1,11 @@
-# jinsta-watchdog
-### Monitor Instagram profile picture
-![picture](/Screenshot.jpg)
+# jinsta-watchdog v2
+### Monitor Instagram profile picture </br>
+![screenshot](/screenshots/main.jpg)</br>
+![screenshot](/screenshots/console.jpg)</br>
+![screenshot](/screenshots/files-struct.jpg)</br>
 
-add username to user.txt and copy all Cookies to info.conf [most login]
-
-با مرورگر به اینستاگرام لاگین کنید و پارامتر های کوکی را مثل قالب پیشفرض فایل کانفیگ پیست کنید - نام های کاربری هم در فایل مربوطه قراردهید
+before start :</br>
+1- add usernames to ./username.txt</br>
+2- login to instagram account and copy all Cookies to ./info.conf [as one line ; ]</br>
+3- run terminal/cmd -> java -jar jinsta.jar</br>
+4- wait a few seconds for update links</br>
